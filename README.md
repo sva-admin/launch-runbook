@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # launch-runbook
 
 Plan and execute a client website go-live, covering DNS cutover, SSL, redirect mapping, analytics, pre-flight gates, and a written rollback plan.
