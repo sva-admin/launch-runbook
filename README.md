@@ -36,6 +36,10 @@ Run [seo-aeo](https://github.com/sva-admin/seo-aeo) before launch, while metadat
 
 Learn free at https://loop.sv-academy.org/tutorials
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 More skills: https://github.com/sva-admin/claude-skills
